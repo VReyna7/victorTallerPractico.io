@@ -85,16 +85,16 @@ const tasaAnual=0.15, tasaEdad= 0.03, tasaSexo=0.05;
         case "1":
             n = 0.5;
             meses = 6;
-            alert("estoy en el 1")
+           
             break
         case "2":
             n = 1;
             meses = 12;
-            alert("estoy en el 2")
+           
         case "3":
             n = 1.5;
             meses = 18;
-            alert("estoy en el 3")
+           
      }
 
      itotal = tasatotal+1;
