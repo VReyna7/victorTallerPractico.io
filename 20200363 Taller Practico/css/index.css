@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url(../img/elpelado.jpg);
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.menu{
+    background-color: white;
+    text-align: center;
+    padding: 30px;
+    width: 100%;
+}
+
+.tablita{
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.titulo{
+    height: 10px;
+    padding: 10px;
+}
+
+.centrito{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.cositas{
+    height: 15px;
+}
